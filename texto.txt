@@ -3,3 +3,5 @@ El facinante mundo de la programación
 Práctica de Git
 
 ------Pasos para crear repo-----
+-git init-
+-git status-
